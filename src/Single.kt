@@ -8,7 +8,7 @@ class Single(val aSide: Song, val bSide: Song) : Music {
 
         val songs : List<Song> = listOf(aSide, bSide)
         return songs
-        
+
     }
 
 
